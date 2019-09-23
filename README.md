@@ -1,5 +1,6 @@
 # hello-world.
 
-Hi everyone!
+Hi everyone
 
-Raf here, I like flat whites and red wine.
+I'm Raf and I like red wine.
+White wine gives me a headache
